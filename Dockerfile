@@ -1,3 +1,3 @@
 FROM busybox
 
-echo a > ./a
+RUN echo a > ./a
